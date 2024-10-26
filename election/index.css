@@ -1,0 +1,69 @@
+body {
+    background-color: orange;
+    /* background-image: url(img/img.jpg); */
+}
+.intro{
+    background-color: white;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+}
+.explain{
+    background-color: white;
+    padding: 30px;
+    margin:30px;
+    border-radius: 30px;
+}
+.questionaire{
+    background-color: white;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+}
+p {
+    color:purple;
+    font-size: 30px;
+}
+h1 {
+    color:blue;
+    text-align: center;
+    font-size: 60px;
+}
+h2 {
+    color:red;
+    font-size: 45px;
+    text-align: center;
+}
+h3 {
+    color:red;
+    background-color: gray;
+    font-size: 40px;
+}
+.igno{
+    color: blue;
+}
+.code{
+    color: black;
+}
+#question{
+    color: black;
+    font-size:30px
+}
+
+td {
+    border: 1px solid black;
+    height: 20px;
+    width: 100px;
+}
+.serial{
+    width:10px;
+}
+.item{
+    width: 400px;
+}
+.agree{
+    width:10px;
+}
+.disagree{
+    width:10px
+}
